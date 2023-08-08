@@ -5,14 +5,16 @@ import './App.css'
 import List from './component/List'
 import User from './component/User'
 import Inputvalsum from './component/inputvaluesum'
+import Inputobject from './component/inputobject'
 function App() {
   
 return(
   <>
   {/* <List/> */}
-  <User/>
+  {/* <User/> */}
   {/* <Inputvalsum/> */}
 
+  <Inputobject/>
   </>
 )
   
